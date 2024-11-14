@@ -23,6 +23,7 @@ extension_folders = {
     '.rar': 'Archives',
     '.7zip': 'Archives',
     '.exe': 'Executables',
+    '.msi': 'Executables',
     '.csv': 'Spreadsheets',
     '.html': 'Webpages',
     '.json': 'Data',
