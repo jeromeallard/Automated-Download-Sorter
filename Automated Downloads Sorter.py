@@ -24,6 +24,7 @@ extension_folders = {
     '.7zip': 'Archives',
     '.exe': 'Executables',
     '.msi': 'Executables',
+    '.apk': 'Executables',
     '.csv': 'Spreadsheets',
     '.html': 'Webpages',
     '.json': 'Data',
@@ -57,3 +58,4 @@ def sort_files():
 if __name__ == '__main__':
     sort_files()
     print("Files have been sorted.")
+ # Future work needed
